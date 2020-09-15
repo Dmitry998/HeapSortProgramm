@@ -1,0 +1,10 @@
+C:\Users\Dmitry\source\repos\HeapSort\HeapSort\obj\Debug\HeapSort.csprojAssemblyReference.cache
+C:\Users\Dmitry\source\repos\HeapSort\HeapSort\obj\Debug\HeapSort.Form1.resources
+C:\Users\Dmitry\source\repos\HeapSort\HeapSort\obj\Debug\HeapSort.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\HeapSort\HeapSort\obj\Debug\HeapSort.csproj.GenerateResource.cache
+C:\Users\Dmitry\source\repos\HeapSort\HeapSort\obj\Debug\HeapSort.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\HeapSort\HeapSort\bin\Debug\HeapSort.exe.config
+C:\Users\Dmitry\source\repos\HeapSort\HeapSort\bin\Debug\HeapSort.exe
+C:\Users\Dmitry\source\repos\HeapSort\HeapSort\bin\Debug\HeapSort.pdb
+C:\Users\Dmitry\source\repos\HeapSort\HeapSort\obj\Debug\HeapSort.exe
+C:\Users\Dmitry\source\repos\HeapSort\HeapSort\obj\Debug\HeapSort.pdb
